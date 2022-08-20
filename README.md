@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Roberto14
 - 👀 I’m interested in Javascript, NodeJS and React.
-- 🌱 I’m currently learning AWS Cloud.
-- 💞️ I’m looking to collaborate on you tell me!
+- 🌱 I’m currently learning AWS.
 - 📫 How to reach me? robertojesus.me/about
 
 <!---
