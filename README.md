@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Roberto14
-- 👀 I’m interested in Javascript, NodeJS and React
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in Javascript/Typescript, NodeJS and React
 - 📫 How to reach me? robertojesus.me/about
 
 <!---
